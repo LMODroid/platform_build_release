@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.window.flags"
-  name: "unify_back_navigation_transition"
+  name: "task_fragment_companion_activity"
   state: ENABLED
   permission: READ_ONLY
 }
